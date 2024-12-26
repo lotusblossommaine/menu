@@ -27,6 +27,16 @@
     position: relative;
 }
 
+.fbLink {
+    position: absolute;
+    right: 40px;
+    top: 20px;
+}
+
+.fbLink img {
+    width: 40px;
+}
+
 .nav {
     position: absolute;
     right: 40px;
@@ -56,6 +66,10 @@
 
     .navContainer {
         height: 250px;
+    }
+
+    .fbLink {
+        display: none;
     }
 
     .nav {
