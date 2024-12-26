@@ -1,3 +1,6 @@
+export const MENU_SPREADSHEET_NAME = 'FINAL';
+export const BANNER_SPREADSHEET_NAME = 'FINAL_ANNOUCEMENT';
+
 const APPETIZERS = 'Appetizers';
 const PU_PU_PLATTER_FOR_ONE = 'Pu Pu Platter (for 1)';
 const PU_PU_PLATTER_FOR_TWO = 'Pu Pu Platter (for 2)';

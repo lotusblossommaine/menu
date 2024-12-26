@@ -1,15 +1,17 @@
 import Papa from 'papaparse';
 import csv from './data/menu.csv';
-import { DRINKS_SECTION_LIST, NO_SMALL_SECTIONS_FOR_DINE_IN, PU_PU_PLATTERS, SECTIONS_WITH_NO_SIZE_HEADER } from './constants';
+import { BANNER_SPREADSHEET_NAME, DRINKS_SECTION_LIST, NO_SMALL_SECTIONS_FOR_DINE_IN, PU_PU_PLATTERS, SECTIONS_WITH_NO_SIZE_HEADER } from './constants';
 
-export const readCSV = async () => {
+export const readCSV = async ({ sheetName }) => {
     const spreadsheetId = '1pN_J14u6YxM6TB-NEjph5lF3CU_djJPznQPZx7qJCqA';
-    const sheetName = 'FINAL';
     const isUseCSV = false;
     const data = isUseCSV ? csv : `https://docs.google.com/spreadsheets/d/${spreadsheetId}/gviz/tq?tqx=out:csv&sheet=${sheetName}`;
-
     const response = await fetch(data);
     const csvString = await response.text();
+
+    if (sheetName === BANNER_SPREADSHEET_NAME) {
+        return csvString;
+    }
 
     return new Promise(resolve => {
         Papa.parse(csvString, {

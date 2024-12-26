@@ -8,6 +8,7 @@ import {
     COMBO_PLATE_SECTIONS,
     DRINKS,
     FOOD_SECTION_LIST,
+    MENU_SPREADSHEET_NAME,
     MIXED_DRINKS,
     NON_ALCOHOLIC_BEER_OPTION,
     SUGGESTIONS,
@@ -21,7 +22,7 @@ export const Menu = ({ isTakeout, luncheonSpecialsRef, drinksRef }) => {
 
     useEffect(() => {
         async function fetchData() {
-            const csvData = await readCSV();
+            const csvData = await readCSV({ sheetName: MENU_SPREADSHEET_NAME });
             const parsedData = parseData(csvData, isTakeout);
             setData(parsedData);
         }
