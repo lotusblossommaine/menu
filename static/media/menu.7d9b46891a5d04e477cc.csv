@@ -1,0 +1,257 @@
+Section,Item,SmallPrice,MediumPrice,LargePrice,SmallQuantity,LargeQuantity,ItemDescription
+Appetizers,Vegetable Spring Rolls,3.85,,7.25,1,2,
+Appetizers,Egg Rolls,3.85,,7.25,1,2,
+Appetizers,Chicken Wings,8.15,,12.85,,,
+Appetizers,Chicken Fingers,6.95,,11.65,6,12,
+Appetizers,Beef Teriyaki,7.45,,13.65,3,6,
+Appetizers,Chicken Teriyaki,7.45,,13.65,3,6,
+Appetizers,**Crab Rangoons,6.95,,11.65,6,12,
+Appetizers,Cheese Wontons,6.95,,11.65,6,12,
+Appetizers,Jumbo Fried Shrimp,7.45,,13.65,3,6,
+Appetizers,Boneless Spare Ribs,8.65,,12.85,,,
+Appetizers,Scallion Pancakes,,,9.25,,,
+Appetizers,Fried Wontons,4.45,,7.75,,,
+Appetizers,Pan Fried Dumplings (12),,,9.25,,,
+Appetizers,Combination Appetizer,,,11.25,,,"Beef Teriyaki (2), Chicken Wings (2), Chicken Fingers (2), and **Crab Rangoons (2)"
+Appetizers,French Fries,,,5.85,,,
+Appetizers,Onion Rings,,,5.85,,,
+Appetizers,Pu Pu Platter (for 2),,,31.95,,,"Beef Teriyaki (2), Chicken Teriyaki (2), Chicken Wings, Chicken Fingers (6), Boneless Spareribs, **Crab Rangoons (4), Egg Rolls (2)
+($2.00 - Each substitution)"
+Appetizers,Pu Pu Platter (for 1),,,16.75,,,($1.00 - Each substitution)
+Fried Rice,Meatless Fried Rice,5.95,,8.15,,,
+Fried Rice,Vegetable Fried Rice,6.45,,8.16,,,
+Fried Rice,Roast Pork Fried Rice,7.15,,8.75,,,
+Fried Rice,Chicken Fried Rice,7.45,,9.45,,,
+Fried Rice,Beef Fried Rice,7.45,,9.45,,,
+Fried Rice,Ham Fried Rice,7.45,,9.45,,,
+Fried Rice,Shrimp Fried Rice,8.15,,10.15,,,
+Fried Rice,House Fried Rice,8.75,,12.15,,,
+Fried Rice,Subgum Fried Rice,7.65,,10.15,,,"(Choice of Pork, Chicken, or Beef)"
+Lo Mein,Vegetable Lo Mein,8.15,,11.95,,,
+Lo Mein,Roast Pork Lo Mein,8.15,,11.95,,,
+Lo Mein,Chicken Lo Mein,8.45,,12.45,,,
+Lo Mein,Beef Lo Mein,8.45,,12.45,,,
+Lo Mein,Shrimp Lo Mein,9.15,,13.45,,,
+Lo Mein,House Lo Mein,9.45,,14.15,,,
+Lo Mein,Pan Fried Noodles,8.15,,11.15,,,
+Lo Mein,Garlic Noodles,8.15,,11.15,,,
+Chow Mein,Meatless Chow Mein,6.05,,9.55,,,
+Chow Mein,Vegetable Chow Mein,6.65,,9.75,,,
+Chow Mein,Chow Mein,6.95,,10.95,,,"(Choice of Pork, Chicken, or Beef)"
+Chow Mein,Shrimp Chow Mein,7.45,,11.75,,,
+Chow Mein,Subgum Meatless Chow Mein,6.45,,10.75,,,(Diced Vegetables)
+Chow Mein,Subgum Chow Mein,7.45,,11.45,,,"(Choice of Pork, Chicken, or Beef)"
+Chow Mein,Subgum Shrimp Chow Mein,7.65,,11.95,,,
+Chop Suey,Meatless Chop Suey,6.05,,9.55,,,
+Chop Suey,Vegetable Chop Suey,6.65,,9.75,,,
+Chop Suey,Chop Suey,6.95,,11.25,,,"(Choice of Pork, Chicken, or Beef)"
+Chop Suey,Shrimp Chop Suey,7.45,,11.75,,,
+Chop Suey,Subgum Meatless Chop Suey,6.45,,10.95,,,(Diced Vegetables)
+Chop Suey,Subgum Chop Suey,7.45,,11.55,,,"(Choice of Pork, Chicken, or Beef)"
+Chop Suey,Subgum Shrimp Chop Suey,7.65,,12.25,,,
+Egg Foo Yong,Meatless Egg Foo Yong,,,10.25,,,
+Egg Foo Yong,Vegetable Egg Foo Yong,,,11.25,,,
+Egg Foo Yong,Egg Foo Yong,,,11.25,,,"(Choice of Pork, Chicken, or Beef)"
+Egg Foo Yong,Shrimp Egg Foo Yong,,,12.45,,,
+Egg Foo Yong,House Egg Foo Yong,,,12.95,,,
+Chicken,Chicken with Broccoli,,,13.25,,,
+Chicken,Chicken with Mixed Vegetables,,,13.25,,,
+Chicken,Chicken with Pea Pods,,,13.25,,,
+Chicken,Chicken with Mushroom,,,13.25,,,
+Chicken,Sweet and Sour Chicken,,,12.75,,,
+Chicken,Cashew Chicken,,,13.75,,,
+Chicken,*Kung Pao Spicy Chicken (w. Peanuts),,,13.95,,,
+Chicken,*Szechuan Spicy Chicken,,,13.95,,,
+Beef,Beef with Broccoli,,,14.25,,,
+Beef,Beef with Mixed Vegetables,,,14.25,,,
+Beef,Beef with Pea Pods,,,14.25,,,
+Beef,Beef with Mushroom,,,14.25,,,
+Beef,Beef with Green Pepper & Onion,,,14.25,,,
+Beef,Beef with Mushroom and Pea Pods,,,14.75,,,
+Beef,*Kung Pao Spicy Beef (w. Peanuts),,,14.95,,,
+Beef,*Szechuan Spicy Beef,,,14.95,,,
+Seafood,Shrimp with Broccoli,,,15.25,,,
+Seafood,Shrimp with Mixed Vegetables,,,15.25,,,
+Seafood,Shrimp with Pea Pods,,,15.75,,,
+Seafood,Shrimp with Lobster Sauce,,,14.45,,,
+Seafood,Shrimp with Mushroom,,,15.75,,,
+Seafood,Sweet and Sour Shrimp,,,14.75,,,
+Seafood,Shrimp with Mushroom and Pea Pods,,,16.25,,,
+Seafood,Scallop with Mixed Vegetables,,,16.45,,,
+Seafood,*Kung Pao Spicy Shrimp (w. Peanuts),,,15.25,,,
+Seafood,*Szechuan Spicy Shrimp,,,15.25,,,
+Soups,Wonton Soup,,,5.75,,,
+Soups,*Spicy Hot and Sour Soup,,,5.75,,,
+Soups,Chinese Vegetable Soup,,,5.75,,,
+Soups,Egg Drop Soup,,,5.75,,,
+Soups,Chicken Soup with Rice or Noodles,,,5.75,,,
+Healthy Selections,Steamed Mixed Vegetables,,,12.25,,,
+Healthy Selections,Steamed Chicken with Vegetables or Broccoli,,,13.25,,,
+Healthy Selections,Steamed Shrimp with Vegetables or Broccoli,,,14.25,,,
+Healthy Selections,Stir-fry Bean Sprouts,,,9.25,,,
+Healthy Selections,Pea Pods with Oyster Sauce,,,11.95,,,
+Healthy Selections,Broccoli with Oyster Sauce,,,11.25,,,
+Children Combinations,Golden Dragon,,,7.25,,,"(Chicken Fingers (4), Pork Fried Rice)"
+Children Combinations,Pagoda,,,7.25,,,"(Chicken Teriyaki (2), Pork Fried Rice)"
+Children Combinations,Buddha,,,7.25,,,"(Crab Rangoons (4), Pork Fried Rice)"
+Children Combinations,Batman,,,7.95,,,"(Chicken Wings (3), French Fries)"
+Children Combinations,Super-Man,,,9.25,,,"(Beef Teriyaki (2), Chicken Fingers (3), French Fries)"
+Side Orders,Duck Sauce,0.50,,4.00,,,
+Side Orders,Sweet & Sour Sauce,0.50,,4.00,,,
+Side Orders,Brown Gravy,0.50,,4.00,,,
+Side Orders,White Rice,2.50,,4.00,,,
+Side Orders,Dried Noodles,,,3.00,,,
+Side Orders,Fortune Cookies,1.50,,3.00,6,12,
+Luncheon Specials,L1 Chinese Mixed Vegetables,,,10.25,,,
+Luncheon Specials,L2 Vegetable Meatless Lo Mein,,,10.25,,,
+Luncheon Specials,L3 Vegetable Meatless Chow Mein,,,10.25,,,
+Luncheon Specials,L4 Roast Pork Egg Foo Yong,,,10.25,,,
+Luncheon Specials,L5 Sweet and Sour Chicken,,,10.25,,,
+Luncheon Specials,"L6 Chicken, Beef, or Pork Chow Mein",,,10.95,,,
+Luncheon Specials,"L7 Chicken, Beef, or Pork Lo Mein",,,10.95,,,
+Luncheon Specials,L8 Chicken (or Beef) with Broccoli,,,10.95,,,
+Luncheon Specials,L9 Chicken (or Beef) with Mushroom,,,11.45,,,
+Luncheon Specials,L10 Chicken (or Beef) with Chinese Mixed Veg,,,11.45,,,
+Luncheon Specials,L11 Cashew Chicken,,,11.45,,,
+Luncheon Specials,L12 Orange Chicken,,,11.45,,,
+Luncheon Specials,*L13 General Tso Spicy Chicken,,,11.45,,,
+Luncheon Specials,*L14 Szechuan Spicy Chicken,,,11.45,,,
+Luncheon Specials,*L15 Kung Pao Spicy Chicken,,,11.45,,,
+Luncheon Specials,*L16 Szechuan Spicy Beef,,,11.45,,,
+Luncheon Specials,L17 Shrimp Lo Mein,,,12.95,,,
+Luncheon Specials,L18 Shrimp with Lobster Sauce,,,12.95,,,
+Luncheon Specials,"L19 Egg Roll, Chicken Teriyaki",,,10.95,,,
+Luncheon Specials,"L20 Egg Roll, Crab Rangoons",,,10.95,,,
+Luncheon Specials,"L21 Chicken Wings, Boneless Spareribs",,,12.95,,,
+Luncheon Specials,"L22 Chicken Teriyaki, Boneless Spareribs",,,12.95,,,
+Luncheon Specials,"L23 Beef Teriyaki, Chicken Wings",,,12.95,,,
+Luncheon Specials,"L24 Beef Teriyaki, Boneless Spareribs",,,12.95,,,
+Luncheon Specials,"L25 Beef Teriyaki, Chicken Fingers",,,12.95,,,
+Luncheon Specials,"L26 Chicken Teriyaki, Chicken Fingers",,,12.95,,,
+Luncheon Specials,"L27 Boneless Spareribs, Chicken Fingers",,,12.95,,,
+Luncheon Specials,L31 Sesame Chicken,,,12.95,,,
+Combination Plates,D1 Chinese Mixed Vegetables,,,12.25,,,
+Combination Plates,D2 Vegetable Meatless Lo Mein,,,12.25,,,
+Combination Plates,D3 Vegetable Meatless Chow Mein,,,12.25,,,
+Combination Plates,D4 Roast Pork Egg Foo Yong,,,13.25,,,
+Combination Plates,D5 Sweet and Sour Chicken,,,13.25,,,
+Combination Plates,"D6 Chicken, Beef, or Pork Chow Mein",,,13.25,,,
+Combination Plates,"D7 Chicken, Beef, or Pork Lo Mein",,,13.75,,,
+Combination Plates,D8 Chicken (or Beef) with Broccoli,,,13.75,,,
+Combination Plates,D9 Chicken (or Beef) with Mushroom,,,13.75,,,
+Combination Plates,D10 Chicken (or Beef) with Chinese Mixed Veg,,,13.75,,,
+Combination Plates,D11 Cashew Chicken,,,14.45,,,
+Combination Plates,D12 Orange Chicken,,,14.45,,,
+Combination Plates,*D13 General Tso Spicy Chicken,,,14.45,,,
+Combination Plates,*D14 Szechuan Spicy Chicken,,,14.45,,,
+Combination Plates,*D15 Kung Pao Spicy Chicken,,,14.45,,,
+Combination Plates,*D16 Szechuan Spicy Beef,,,14.45,,,
+Combination Plates,D17 Shrimp Lo Mein,,,14.95,,,
+Combination Plates,D18 Shrimp with Lobster Sauce,,,14.95,,,
+Combination Plates,"D19 Egg Roll, Chicken Teriyaki",,,12.95,,,
+Combination Plates,"D20 Egg Roll, Crab Rangoons",,,12.95,,,
+Combination Plates,"D21 Chicken Wings, Boneless Spareribs",,,14.95,,,
+Combination Plates,"D22 Chicken Teriyaki, Boneless Spareribs",,,14.95,,,
+Combination Plates,"D23 Beef Teriyaki, Chicken Wings",,,14.95,,,
+Combination Plates,"D24 Beef Teriyaki, Boneless Spareribs",,,14.95,,,
+Combination Plates,"D25 Beef Teriyaki, Chicken Fingers",,,14.95,,,
+Combination Plates,"D26 Chicken Teriyaki, Chicken Fingers",,,14.95,,,
+Combination Plates,"D27 Boneless Spareribs, Chicken Fingers",,,14.95,,,
+Combination Plates,D28 Four Happiness,,,14.95,,,
+Combination Plates,D29 Beef with Pea Pods,,,14.95,,,
+Combination Plates,D30 Hon Sue Gai,,,14.45,,,
+Combination Plates,D31 Sesame Chicken,,,14.45,,,
+Suggestions,#40 Gai Poo Lo Mein (For 2),,,20.95,,,"Jumbo Shrimp, Tender Beef, and Roast Pork sautéed with Pea Pods, Mushrooms, Water Chestnuts, and Mixed Vegetables on top of Soft Noodles"
+Suggestions,#41 Marco Polo Delight,,,15.75,,,Sliced Tender Beef sautéed with Broccoli on a bed of Soft Noodles
+Suggestions,#42 Sizzling Seafood Islander,,,19.55,,,"Lobster Meat, Jumbo Shrimp, and Scallops sautéed with Mixed Vegetables. Served in a Sizzling Platter."
+Suggestions,#43 Four Happiness,,,17.55,,,"Slices of Tender Beef, Shrimp, Chicken, and Roast Pork sautéed with Mixed Vegetables"
+Suggestions,#44 Land and Sea Special,,,19.75,,,"Beef, Shrimp, Lobster Meat, Scallops, and selected Vegetables with Oyster Sauce on a Platter of Bean Sprouts"
+Suggestions,*#45 General Tso Spicy Chicken,,,15.95,,,"Choice Fresh Chicken lightly battered with a special Spicy, Sweet and Sour Sauce with Broccoli"
+Suggestions,#46 Sesame Chicken,,,15.75,,,"Chunks of Fresh Chicken in a very thin Egg Batter, deep fried to golden brown and sautéed in flavored sauce with sesame seeds"
+Suggestions,#47 Orange Chicken,,,15.75,,,"Choice Fresh Chicken lightly battered, delicately sautéed with Orange Flavored Sauce"
+Suggestions,#48 House Special Rice Noodles,,,14.75,,,"Rice Noodles stirred fried with Shredded Roast Pork, Ham, Baby Shrimp, Onions, Mushrooms, Water Chestnuts, Carrots, Bean Sprouts, and Pea Pods"
+Suggestions,*#49 Singapore Spice Rice Noodles,,,14.75,,,"Rice Noodles stirred fried with Shredded Roast Pork, Baby Shrimp, Onions, Bean Sprouts, Pea Pods, Carrots, and Green Peppers in a Spicy Curry Sauce"
+Suggestions,*#50 Spicy Beef and Broccoli,,,14.75,,,"Sliced Beef sautéed with fresh Broccoli, Mushrooms, and Water Chestnuts in a Szechuan Spicy Sauce"
+Suggestions,#51 Moo Goo Gai Pan,,,13.25,,,"Sliced White Chicken Meat sautéed with Mushrooms, Water Chestnuts, Pea Pods, and Chinese Vegetables"
+Suggestions,#52 Vegetables Delight,,,12.95,,,"Fresh Chinese Vegetables with Mushrooms, Pea Pods, and Water Chestnuts"
+Suggestions,#53 Hon Sue Gai,,,13.95,,,Spears of Breaded Chicken Meat deep Fried and sautéed with Chinese Vegetables
+Drinks,Mai Tai,,,8.75,,,Ancient Jamaican rum makes this a delight to all.
+Drinks,Suffering Bastard,,,9.25,,,"A forthright blend of rums, lime and liqueurs. Formula from the Shepard's Hotel in Cairo."
+Drinks,Frozen Banana or Strawberry Daiquiri,,,8.75,,,A sample daiquiri with banana or strawberry cream. Great as a before or after dinner drink.
+Drinks,Fog Cutter,,,8.75,,,"A potent vaseful of rums, fruits and liqueurs. Let the drinker beware."
+Drinks,Doctor Funk,,,8.25,,,"A truly tropical drink, redolent of French rum and anisette."
+Drinks,Pina Colada,,,8.75,,,"The beach goer's favorite. Hot, mild, but not weak."
+Drinks,Universal,,,8.75,,,"Made with Tequila & Amaretto, mixed with melon flavor & pineapple juice"
+Drinks,House Special Zombie,,,9.25,,,Tastes so smooth. Feels so powerful.
+Drinks,Coco Mongo,,,8.75,,,"A delicious blend of coconut fruit juices and fine, light rum."
+Drinks,Eastern Sour,,,8.25,,,"A magnificent fine bourbon with crushed orange, lemon and ice."
+Drinks,Melon Ball,,,8.25,,,Enjoy our relaxing and refreshing blend.
+Drinks,Pineapple Passion,,,8.95,,,The fruit of the Pineapple combined with rare spices and blend of the light rums.
+Drinks,Rum Cup,,,8.75,,,Try our house famous Rum Cup!
+Drinks,Blue Hawaiian,,,8.75,,,Blue Curacao & Pineapple Juice
+Drinks,Navy Grog,,,8.25,,,A truly great drink. A blend of fine rums and tropical fruits with an accent of pimento dram.
+Drinks,Love Potion,,,8.25,,,Always a lady's favorite.
+Drinks,Planter's Punch,,,8.75,,,A tropical tradition. Jamaican formula from Montego Bay.
+Drinks,Mystery,,,8.95,,,"We cannot tell you what's in it, but we can tell you it's legal."
+Drinks,Scorpion Bowl,9.45,16.50,21.50,,,"A festive concoction of rums, fruit juice and brandy with a whisper of almond and served with long straws."
+Mixed Drinks,Absolute,,,7.75,,,
+Mixed Drinks,Bacardi,,,7.75,,,
+Mixed Drinks,Bailey Irish Cream,,,8.95,,,
+Mixed Drinks,Beefeater,,,7.25,,,
+Mixed Drinks,Black Velvet,,,7.25,,,
+Mixed Drinks,Bloody Mary,,,7.75,,,
+Mixed Drinks,Canadian Club,,,7.25,,,
+Mixed Drinks,Canadian Mist,,,7.25,,,
+Mixed Drinks,Cape Codder,,,7.25,,,
+Mixed Drinks,Captain Morgan,,,8.25,,,
+Mixed Drinks,Chivas Regal,,,8.25,,,
+Mixed Drinks,Coffee Brandy Sombrero,,,7.75,,,
+Mixed Drinks,Crown Royal,,,8.95,,,
+Mixed Drinks,Dewar's,,,7.75,,,
+Mixed Drinks,Fuzzy Navel,,,7.25,,,
+Mixed Drinks,Grateful Dead,,,7.95,,,
+Mixed Drinks,Jack Daniels,,,8.25,,,
+Mixed Drinks,J & B,,,7.75,,,
+Mixed Drinks,Jim Bean,,,7.25,,,
+Mixed Drinks,Kahlua Sombrero,,,8.95,,,
+Mixed Drinks,Long Island Iced Tea,,,8.95,,,
+Mixed Drinks,Margarita,,,7.95,,,
+Mixed Drinks,Myer's,,,7.25,,,
+Mixed Drinks,Screwdriver,,,7.25,,,
+Mixed Drinks,Sea Breeze,,,7.25,,,
+Mixed Drinks,Seagram's 7,,,7.25,,,
+Mixed Drinks,Seagram's V0,,,7.25,,,
+Mixed Drinks,Singapore Sling,,,7.25,,,
+Mixed Drinks,Sloe Gin Fizz,,,7.55,,,
+Mixed Drinks,Smirnoff,,,7.95,,,
+Mixed Drinks,Southern Comfort,,,7.25,,,
+Mixed Drinks,Stolichnaya,,,7.95,,,
+Mixed Drinks,Tanqueray,,,7.95,,,
+Mixed Drinks,Tequila Sunrise,,,7.95,,,
+Mixed Drinks,Tito's,,,7.75,,,
+Mixed Drinks,White Russian,,,8.95,,,
+Beer,Budweiser or Bud Lite,,,3.95,,,
+Beer,"Corona - Light, Extra or Premier",,,3.95,,,
+Beer,Coors Lite,,,3.85,,,
+Beer,Heineken,,,5.25,,,
+Beer,Michelob Lite,,,4.75,,,
+Beer,Miller's Lite,,,4.75,,,
+Beer,Samuel Adams,,,4.25,,,
+Beer,Shipyard,,,4.25,,,
+Beer,Twisted Tea,,,4.25,,,
+Wine,Chardonnay,,,5.25,,,
+Wine,Merlot,,,5.25,,,
+Wine,Pinot Grigio,,,5.25,,,
+Wine,Zinfandel (White),,,5.25,,,
+Non-Alcoholic Beer Option,Coors Edge,,,5.25,,,
+Beverages,Soda,,,2.95,,,"(Pepsi, Diet Pepsi, Sierra Mist, Ginger-ale, Root Beer, Mt. Dew, Orange Soda)"
+Beverages,Iced Tea,,,2.95,,,(Free Refill for Soda or Iced Tea)
+Beverages,Juice,,,3.25,,,
+Beverages,Shirley Temple,,,2.95,,,
+Beverages,Flamingo,,,3.95,,,
+Beverages,Coffee,,,1.95,,,
+Beverages,Milk,1.95,,2.95,,,
+Beverages,Chocolate Milk,1.95,,2.95,,,
+Beverages,Hot Chocolate,,,2.55,,,
+Beverages,Virgin Strawberry Daiquiri,,,4.95,,,
+Beverages,Virgin Pina Colada,,,4.95,,,
