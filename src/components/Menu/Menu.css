@@ -59,6 +59,11 @@ h2.isCenter {
     width: 100px;
 }
 
+.isComboSection .price,
+.isComboSection .priceLabel {
+    width: auto;
+}
+
 @media (max-width: 820px) {
     .menu h2 {
         font-size: 28px;
