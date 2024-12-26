@@ -14,7 +14,7 @@ const processCsvStringToHtml = (csvString) => {
         <div>
             {lines.map((line, index) => (
                 <React.Fragment key={index}>
-                    {line}
+                    {line.toUpperCase()}
                     <br />
                 </React.Fragment>
             ))}
