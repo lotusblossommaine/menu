@@ -55,11 +55,11 @@ export const parseData = (data, isTakeout) => {
         if (isShowSmallPrice({ smallPrice: SmallPrice, isTakeout, sectionName })) {
             prices.push({ label: 'Small', amount: SmallPrice, quantity: SmallQuantity });
         }
+        if (MediumPrice) {
+            prices.push({ label: 'Medium', amount: MediumPrice, quantity: MediumQuantity });
+        }
         if (LargePrice) {
             prices.push({ label: 'Large', amount: LargePrice, quantity: LargeQuantity });
-        }
-        if (MediumPrice) {
-            prices.push({ label: 'Medium', amount: LargePrice, quantity: MediumQuantity });
         }
 
         sections[sectionName].push({
